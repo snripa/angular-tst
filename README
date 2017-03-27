@@ -1,0 +1,9 @@
+ - install npm and nodejs not older than 6.*
+ - install angular cli:
+npm install -g @angular/cli
+
+ - checkout project
+ - run server 
+ng serve
+
+ - navigate to http://localhost:4200
